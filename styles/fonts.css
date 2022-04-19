@@ -1,0 +1,21 @@
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 300;
+  src: url('../public/fonts/yekan/iranyekanweblightfanum.woff') format('woff');
+}
+
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 800;
+  src: url('../public/fonts/yekan/iranyekanwebextraboldfanum.woff')
+    format('woff');
+}
+
+@font-face {
+  font-family: iranyekan;
+  font-style: normal;
+  font-weight: 850;
+  src: url('../public/fonts/yekan/iranyekanwebblackfanum.woff') format('woff');
+}
